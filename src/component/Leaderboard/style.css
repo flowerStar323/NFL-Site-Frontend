@@ -1,0 +1,6 @@
+.ant-table-thead > tr > th, .ant-table-tbody > tr > td, .ant-table tfoot > tr > th, .ant-table tfoot > tr > td {
+    padding: 0px !important;
+}
+.ant-table-cell{
+    padding: 0px !important;
+}
